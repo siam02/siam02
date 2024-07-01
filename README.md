@@ -7,6 +7,7 @@
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siam02&show_icons=true&locale=en" alt="siam02" /></p>
 
+<h2 align="left">About me:</h2>
 - 🔭 I’m currently working on [fileion](https://fileion.com/)
 
 - 👨‍💻 All of my projects are available at [https://sjsiam.com/](https://sjsiam.com/)
